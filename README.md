@@ -1,6 +1,6 @@
 ## [[TGS Salt Identification Challenge](https://www.kaggle.com/c/tgs-salt-identification-challenge)] Bronze Medal Soultion
 
-First of all, Thanks [Fastai library](https://github.com/fastai/fastai/tree/0.7.0/fastai) which save me a lot of time to build the model. 250+th place isn't a very good score, However, this [notebook](https://github.com/alexshuang/TGS_Salt/blob/master/TGS_Salt_resnext50_unet_5Fold_scSE.ipynb) can be directly run on Google colab. You can use it as backbone to experiment with the ideas published by other top contestants. The most important thing is that you don't need to have your own GPU for this competition, you'd better have a faster GPU, though:).
+First of all, Thanks [Fastai library](https://github.com/fastai/fastai/tree/0.7.0/fastai) which save me a lot of time to build the model. Bronze medal place isn't a very good score, However, this [notebook](https://github.com/alexshuang/TGS_Salt/blob/master/TGS_Salt_resnext50_unet_5Fold_scSE.ipynb) can be directly run on Google colab. You can use it as backbone to experiment with the ideas published by other top contestants. The most important thing is that you don't need to have your own GPU for this competition, you'd better have a faster GPU, though:).
 
 For more information about source code, please read my chinese blog: https://www.jianshu.com/p/ab0a10c2e710
 
